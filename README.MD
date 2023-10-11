@@ -4,6 +4,7 @@
 #### Cabecera h4
 ##### Cabecera h5
 ###### Cabecera h6
+<<<<<<< HEAD
 
 Underline 1
 ------------
@@ -23,3 +24,5 @@ Siguientes conceptos:
 
 
 
+=======
+>>>>>>> develop
