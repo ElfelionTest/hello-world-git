@@ -19,3 +19,7 @@ Underline 2
 - formato ~~tachado~~, formato normal
 - Aqui podemos usar _formato italica_, pero tambien la __bold__ y ~~tachado~~
 
+Siguientes conceptos:
+
+
+
